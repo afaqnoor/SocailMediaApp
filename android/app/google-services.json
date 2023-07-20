@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "198024406571",
+    "project_id": "sicailmedia",
+    "storage_bucket": "sicailmedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198024406571:android:a81635b63d4a1bfa32ec6e",
+        "android_client_info": {
+          "package_name": "com.example.gridview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198024406571-r67q66li6d8p75k8hbuc8u21fv6tgtaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gridview",
+            "certificate_hash": "289791deb43828846068c1349a16e3a193cf4659"
+          }
+        },
+        {
+          "client_id": "198024406571-ivhurhn9iv4tstnmgarj8v58l6j1p1sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyxPjEz6rA1FdAp6apGiKjWp3KgXfcDPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198024406571-ivhurhn9iv4tstnmgarj8v58l6j1p1sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
